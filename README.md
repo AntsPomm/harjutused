@@ -1,3 +1,3 @@
 # harjutused
 java harjutused
-siin hakkan am java harjutusi tegema
+siin hakkan ma java harjutusi tegema
